@@ -16,3 +16,7 @@ Items:
 ---
 ### subtitle3
 In this line a have **bold** and *italic* words.
+
+### subtitle4
+[x] checkbox
+[ ] uncheckbox
