@@ -13,3 +13,6 @@ Items:
 - item 2
 - item 3
 
+---
+### subtitle3
+In this line a have *bold* and -italic- words.
