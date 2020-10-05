@@ -15,4 +15,4 @@ Items:
 
 ---
 ### subtitle3
-In this line a have *bold* and -italic- words.
+In this line a have **bold** and *italic* words.
